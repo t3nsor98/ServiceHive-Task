@@ -23,7 +23,7 @@ Screenshots of the website and admin dashboard are available in the `screenshots
 
 ## 🌐 Live Demo (Optional)
 
-[Visit the Live Site on Netlify](https://your-netlify-site.netlify.app)  
+[Visit the Live Site on Netlify]([https://your-netlify-site.netlify.app](https://graceful-chebakia-03950c.netlify.app/))  
 > _Replace this link with your actual deployment URL_
 
 ## 📂 Folder Structure
